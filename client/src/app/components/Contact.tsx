@@ -35,7 +35,7 @@ export default function Contact() {
           <div className="flex flex-col gap-16">
             <div>
               <div className="flex gap-2 items-center">
-                <Image src="/../call.png" alt="call" width={30} height={30} />
+                <Image src="/call.png" alt="call" width={30} height={30} />
                 <p className="font-semibold text-3xl">Call us</p>
               </div>
               <Link href="tel:+919354566860">
@@ -45,7 +45,7 @@ export default function Contact() {
             <div>
               <div className="flex gap-2 items-center">
                 <Image
-                  src="/../location.png"
+                  src="/location.png"
                   alt="call"
                   width={30}
                   height={30}
@@ -56,7 +56,7 @@ export default function Contact() {
             </div>
             <div>
               <div className="flex gap-2 items-center">
-                <Image src="/../mail.png" alt="call" width={30} height={30} />
+                <Image src="/mail.png" alt="call" width={30} height={30} />
                 <p className="font-semibold text-3xl">Mail us</p>
               </div>
               <Link href="mailto:info@markall.in">

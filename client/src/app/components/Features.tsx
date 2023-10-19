@@ -32,7 +32,7 @@ export default function Features() {
           </div>
           <div>
             <Image
-              src="/../auto.png"
+              src="/auto.png"
               alt="automation"
               width={400}
               height={100}
@@ -51,7 +51,7 @@ export default function Features() {
           </div>
           <div>
             <Image
-              src="/../testi.png"
+              src="/testi.png"
               alt="automation"
               width={400}
               height={100}
